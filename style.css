@@ -1,0 +1,35 @@
+*{
+	margin 0;
+	padding 0;
+	outline: none;
+	text-decoration: none;
+	color: #000;
+}
+body
+{
+	background: #efefef url(images/food.png);
+	margin: 0;
+	padding: 0;
+}
+div.headder
+{
+	margin: 5%;
+	
+}
+div.menu
+{
+	margin-right: 5%;
+	float: right;
+}
+h1
+{
+	font-family: DEVIOUS,serif;
+	font-style: italic;
+	color: #e6192d;
+
+}
+ul
+{
+	color: #e6192d;
+	font-style: italic;
+}
